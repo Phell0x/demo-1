@@ -14,6 +14,7 @@ public class SletMig {
   public static void main(String[] args) {
     
    Person p1 = new Person("Peter");
+   Person p3 = new Person("Mogens Nielsen Henningsen jensen hansen");
   }
   
 }
